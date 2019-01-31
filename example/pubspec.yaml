@@ -1,6 +1,7 @@
 name: mdns_example
 description: Demonstrates how to use the mdns plugin.
-
+environment:
+  sdk: ">=2.0.0-dev.68.0 <3.0.0"
 dependencies:
   flutter:
     sdk: flutter

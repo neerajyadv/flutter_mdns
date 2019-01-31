@@ -3,7 +3,8 @@ description: A Flutter plugin for mDNS&#x2F;DNS-SD discovery and advertising.
 version: 0.0.1
 author: John Anderson <john@iminate.com>
 homepage: https://github.com/platinumjam/flutter_mdns
-
+environment:
+  sdk: ">=2.0.0-dev.68.0 <3.0.0"
 dependencies:
   flutter:
     sdk: flutter
